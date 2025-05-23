@@ -16,7 +16,8 @@ Aquí encontrarás proyectos relacionados con Java, desarrollo web y más.
 ---
 
 > “El aprendizaje nunca agota la mente.” – Leonardo da Vinci
-<img src="[img/tu-imagen.png](https://static.platzi.com/media/blog/cover-github-105d8310-41f9-4d9e-91e0-4cbde3d8c645.jpg)" width="200"/>
+
+![Texto alternativo]([https://ejemplo.com/mi-imagen.png](https://static.platzi.com/media/blog/cover-github-105d8310-41f9-4d9e-91e0-4cbde3d8c645.jpg))
 <!--
 **Teresa2911/Teresa2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
